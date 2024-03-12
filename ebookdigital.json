@@ -1,0 +1,171 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Sejarah",
+      "image": "images/history.png"
+    },
+    {
+      "id": "2",
+      "name": "Kimia",
+      "image": "images/chemistry.png"
+    },
+    {
+      "id": "3",
+      "name": "Ekonomi",
+      "image": "images/economics.png"
+    },
+    {
+      "id": "4",
+      "name": "Fisika",
+      "image": "images/physics.png"
+    },
+    {
+      "id": "5",
+      "name": "Geologi",
+      "image": "images/geologi.png"
+    },{
+      "id": "6",
+      "name": "Biologi",
+      "image": "images/dna.png"
+    },
+    {
+      "id": "7",
+      "name": "Matematika",
+      "image": "images/mathematics.png"
+    },
+    {
+      "id": "8",
+      "name": "Bahasa",
+      "image": "images/languages.png"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "cat_id": "8",
+      "cat_name": "Bahasa",
+      "author": "Mtx",
+      "title": "Bahasa Indonesia Kelas XII",
+      "image": "images/1.png",
+      "link": "pdf/contoh.pdf",
+      "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+    },
+    {
+      "id": 2,
+      "cat_id": "7",
+      "cat_name": "Matematika",
+      "author": "Mtx",
+      "title": "Matematika Kelas XII",
+      "image": "images/2.png",
+      "link": "pdf/contoh2.pdf",
+      "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+    },
+    {
+      "id": 3,
+      "cat_id": "1",
+      "cat_name": "Sejarah",
+      "author": "Mtx",
+      "title": "Sejarah Indonesia Kelas X",
+      "image": "images/3.png",
+      "link": "pdf/contoh3.pdf",
+      "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+    },
+    {
+      "id": 4,
+      "cat_id": "6",
+      "cat_name": "Fisika",
+      "author": "Mtx",
+      "title": "Biologi Kelas X",
+      "image": "images/4.png",
+      "link": "pdf/contoh4.pdf",
+      "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+    },
+    {
+      "id": 5,
+      "cat_id": "4",
+      "cat_name": "Fisika",
+      "author": "Mtx",
+
+      "title": "Fisika Kelas XI",
+      "image": "images/5.png",
+      "link": "pdf/contoh5.pdf",
+      "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+    }
+  ,
+    {
+      "id": 6,
+      "cat_id": "2",
+      "cat_name": "Kimia",
+      "author": "Mtx",
+      "title": "Kimia Kelas XII",
+      "image": "images/6.png",
+      "link": "pdf/contoh6.pdf",
+      "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+    }
+  ,
+    {
+      "id": 7,
+      "cat_id": "5",
+      "cat_name": "Geologi",
+      "author": "Mtx",
+      "title": "Geografi Kelas XII",
+      "image": "images/7.png",
+      "link": "pdf/contoh7.pdf",
+      "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+    }
+  ,
+    {
+      "id": 8,
+      "cat_id": "3",
+      "cat_name": "Ekonomi",
+      "author": "Mtx",
+      "title": "Ekonomi Kelas XII",
+      "image": "images/8.png",
+      "link": "pdf/contoh8.pdf",
+      "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+    }
+  ],
+  "sliders": [
+    {
+      "id": 1,
+      "cat_id": "8",
+      "cat_name": "Bahasa",
+      "author": "Mtx",
+      "title": "Bahasa Indonesia Kelas XII",
+      "image": "images/1.png",
+      "link": "pdf/contoh.pdf",
+      "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+    },
+    {
+      "id": 2,
+      "cat_id": "7",
+      "cat_name": "Matematika",
+      "author": "Mtx",
+      "title": "Matematika Kelas XII",
+      "image": "images/2.png",
+      "link": "pdf/contoh2.pdf",
+      "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+    },
+    {
+      "id": 3,
+      "cat_id": "1",
+      "cat_name": "Sejarah",
+      "author": "Mtx",
+      "title": "Sejarah Indonesia Kelas X",
+      "image": "images/3.png",
+      "link": "pdf/contoh3.pdf",
+      "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+    },
+    {
+      "id": 4,
+      "cat_id": "6",
+      "cat_name": "Fisika",
+      "author": "Mtx",
+      "title": "Biologi Kelas X",
+      "image": "images/4.png",
+      "link": "pdf/contoh4.pdf",
+      "description": "Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh kegiatan yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru, atau mengembangkan ide-ide pembelajaran sendiri"
+    }
+  ]
+}
